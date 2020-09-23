@@ -1,0 +1,35 @@
+v,a,b,step,xl
+nMuons,0,6,1,$n_\mu$
+nElectrons,0,6,1,$n_e$
+nPhotons,0,6,1,$n_\gamma$
+nJets,0,10,1,$n_j$
+leptonOne_pt,0,1500,50,$pT_{l1}$ [GeV]
+leptonOne_eta,-4,4,0.2,$\eta_{l1}$
+leptonTwo_pt,0,1500,50,$pT_{l2}$ [GeV]
+leptonTwo_eta,-4,4,0.2,$\eta_{l2}$
+gamma_pt,0,1500,50,$pT_{\gamma}$ [GeV]
+gamma_eta,-4,4,0.2,$\eta_{\gamma}$
+jetOne_pt,0,1500,50,$pT_{j1}$ [GeV]
+jetOne_eta,-4,4,0.2,$\eta_{j1}$
+jetTwo_pt,0,1500,50,$pT_{j2}$ [GeV]
+jetTwo_eta,-4,4,0.2,$\eta_{j2}$
+dilepton_m,70,110,1,$m_{ll}$ [GeV]
+dilepton_pt,0,1500,50,$pT_{ll}$ [GeV]
+dilepton_eta,-4,4,0.2,$\eta_{ll}$
+dilepton_deltar,0,5,0.2,"$\Delta R_{l1,l2}$"
+dilepton_deltaphi,0,3.5,0.1,"$\Delta \phi_{l1,l2}$"
+dileptonG_m,100,800,10,$m_{ll\gamma}$ [GeV]
+dileptonG_pt,0,1500,50,$pT_{ll\gamma}$ [GeV]
+dileptonG_eta,-4,4,0.2,$\eta_{ll\gamma}$
+dileptonG_deltar,0,5,0.2,"$\Delta R_{ll,\gamma}$"
+dileptonG_deltaphi,0,3.5,0.1,"$\Delta \phi_{ll,\gamma}$"
+dijet_m,0,1200,20,$m_{jj}$ [GeV]
+dijet_pt,0,1500,50,$pT_{jj}$ [GeV]
+dijet_eta,-4,4,0.2,$\eta_{jj}$
+dijet_deltar,0,5,0.2,"$\Delta R_{j1,j2}$"
+dijet_deltaphi,0,3.5,0.1,"$\Delta \phi_{j1,j2}$"
+dileptonGDijet_m,1000,4000,50,$m_{ll\gamma jj}$ [GeV]
+dileptonGDijet_pt,0,1500,50,$pT_{ll\gamma jj}$ [GeV]
+dileptonGDijet_eta,-4,4,0.2,$\eta_{ll\gamma jj}$
+dileptonGDijet_deltar,0,7,0.2,"$\Delta R_{ll\gamma , jj}$"
+dileptonGDijet_deltaphi,0,3.5,0.1,"$\Delta \phi_{ll\gamma , jj}$"
