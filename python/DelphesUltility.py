@@ -52,3 +52,4 @@ def fill_kinematics(out, lep1, lep2, gamma, jet1, jet2):
     out['dileptonGDijet_m'].append(dilepgDijet.m)
     out['dileptonGDijet_deltar'].append(dilepg.deltar(dijet))
     out['dileptonGDijet_deltaphi'].append(dilepg.deltaphi(dijet))
+    

@@ -85,3 +85,4 @@ class DelphesAnalyzerGen():
                     print(genLeps, genGluons, genPhotons)
 
         self.out_gen = pd.DataFrame(out_gen) # out dict
+        
