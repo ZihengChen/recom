@@ -76,5 +76,15 @@ A resulting root file with delphes simulation will be produced in the `Events/ru
 
 ## 3. Analyze MC Events
 
-This repo is code for Analyze MC Events. Both Gen-level and after Delphis simulation of CMS.
+
+
+
+This repo is code for Analyze MC Events, both Gen-level and after Delphis simulation of CMS.
+The analyzer code is purely based on python. It does not require root but needs `uproot` and `scikit-hep`.
+pip install these package if they are not installed.
+
+```
+pip install uproot scikit-hep
+```
+
 Some example output plots can be found [here](https://drive.google.com/drive/folders/1e1xciXCbST44CowgkrLuTZ82FZdw5y3b?usp=sharing)
