@@ -32,4 +32,4 @@ dileptonGDijet_m,1000,4000,50,$m_{ll\gamma jj}$ [GeV]
 dileptonGDijet_pt,0,1500,50,$pT_{ll\gamma jj}$ [GeV]
 dileptonGDijet_eta,-4,4,0.2,$\eta_{ll\gamma jj}$
 dileptonGDijet_deltar,0,7,0.2,"$\Delta R_{ll\gamma , jj}$"
-dileptonGDijet_deltaphi,0,3.5,0.1,"$\Delta \phi_{ll\gamma , jj}$"
+dileptonGDijet_deltaphi,0,3.5,0.1,"$\Delta \phi_{ll\gamma ,  jj}$"
